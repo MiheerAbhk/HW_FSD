@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\models\\studentrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\studentrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\views\\student\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\models\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4101-6C54-470B-935E-7DA9B872F269}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T04:10:13.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T03:58:54.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T03:58:01.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T03:56:25.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:56:49.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:50:00.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Models\\StudentRepoImpl.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\StudentRepoImpl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Models\\StudentRepoImpl.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\StudentRepoImpl.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:21:59.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T03:58:22.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Views\\Student\\View.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\View.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Views\\Student\\View.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T10:05:45.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:20:45.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Models\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Models\\IStudentRepo.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\IStudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:19:38.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:51:21.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

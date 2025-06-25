@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\controllers\\flightroutescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:controllers\\flightroutescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\dtos\\flightroutesdto\\flightroutescreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:dtos\\flightroutesdto\\flightroutescreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\dtos\\logindto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:dtos\\logindto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\simplyflyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:simplyflyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\dtos\\flightroutesdto\\flightroutesupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:dtos\\flightroutesdto\\flightroutesupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\dtos\\flightroutesdto\\flightroutesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:dtos\\flightroutesdto\\flightroutesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\dtos\\flightdto\\flightsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:dtos\\flightdto\\flightsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\dtos\\flightdto\\flightsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:dtos\\flightdto\\flightsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\dtos\\logindto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:dtos\\logindto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\dtos\\flightdto\\flightscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:dtos\\flightdto\\flightscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\models\\flightroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\flightroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\models\\cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\models\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\stillrying\\simplyflyapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SimplyFlyAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\SimplyFlyAPI.csproj",
+              "RelativeDocumentMoniker": "SimplyFlyAPI.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\SimplyFlyAPI.csproj",
+              "RelativeToolTip": "SimplyFlyAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T14:42:13.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlightRoutesUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightRoutesDTO\\FlightRoutesUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FlightRoutesDTO\\FlightRoutesUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightRoutesDTO\\FlightRoutesUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\FlightRoutesDTO\\FlightRoutesUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:26:43.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FlightRoutesDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightRoutesDTO\\FlightRoutesDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FlightRoutesDTO\\FlightRoutesDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightRoutesDTO\\FlightRoutesDto.cs",
+              "RelativeToolTip": "DTOs\\FlightRoutesDTO\\FlightRoutesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:26:24.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightRoutesCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightRoutesDTO\\FlightRoutesCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FlightRoutesDTO\\FlightRoutesCreateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightRoutesDTO\\FlightRoutesCreateDto.cs",
+              "RelativeToolTip": "DTOs\\FlightRoutesDTO\\FlightRoutesCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:25:45.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlightsUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightDTO\\FlightsUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FlightDTO\\FlightsUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightDTO\\FlightsUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\FlightDTO\\FlightsUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:24:53.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlightsDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightDTO\\FlightsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FlightDTO\\FlightsDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightDTO\\FlightsDto.cs",
+              "RelativeToolTip": "DTOs\\FlightDTO\\FlightsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:24:20.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\LoginDTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDTO\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\LoginDTO\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:23:49.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\LoginDTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\LoginDTO\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:23:25.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FlightsCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightDTO\\FlightsCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FlightDTO\\FlightsCreateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightDTO\\FlightsCreateDto.cs",
+              "RelativeToolTip": "DTOs\\FlightDTO\\FlightsCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:22:42.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "Controllers\\FlightsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:51:15.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightRoutesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Controllers\\FlightRoutesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightRoutesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Controllers\\FlightRoutesController.cs",
+              "RelativeToolTip": "Controllers\\FlightRoutesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:49:46.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:19:06.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cancellation.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Cancellation.cs",
+              "RelativeDocumentMoniker": "Models\\Cancellation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Cancellation.cs",
+              "RelativeToolTip": "Models\\Cancellation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:50:26.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:49:42.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:49:27.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Seat.cs",
+              "RelativeDocumentMoniker": "Models\\Seat.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Seat.cs",
+              "RelativeToolTip": "Models\\Seat.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:49:12.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Flight.cs",
+              "RelativeToolTip": "Models\\Flight.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:48:54.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FlightRoute.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\FlightRoute.cs",
+              "RelativeDocumentMoniker": "Models\\FlightRoute.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\FlightRoute.cs",
+              "RelativeToolTip": "Models\\FlightRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:48:37.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Airline.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Airline.cs",
+              "RelativeDocumentMoniker": "Models\\Airline.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\Airline.cs",
+              "RelativeToolTip": "Models\\Airline.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:48:14.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:44:32.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:31:43.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:30:58.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\stillrying\\SimplyFlyAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T13:28:46.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

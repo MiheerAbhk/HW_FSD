@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\api_practice\\api_practice\\migrations\\20250521094507_dbfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|solutionrelative:api_practice\\migrations\\20250521094507_dbfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\api_practice\\api_practice\\data\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|solutionrelative:api_practice\\data\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\api_practice\\api_practice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|solutionrelative:api_practice\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\api_practice\\api_practice\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|solutionrelative:api_practice\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\api_practice\\api_practice\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|solutionrelative:api_practice\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\api_practice\\api_practice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|solutionrelative:api_practice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\api_practice\\api_practice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|solutionrelative:api_practice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\api_practice\\api_practice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA109BF3-C3A9-4844-A562-2A0F3BF4C20F}|API_Practice\\API_Practice.csproj|solutionrelative:api_practice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BranchesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Controllers\\BranchesController.cs",
+              "RelativeDocumentMoniker": "API_Practice\\Controllers\\BranchesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Controllers\\BranchesController.cs",
+              "RelativeToolTip": "API_Practice\\Controllers\\BranchesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:10:12.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250521094507_dbfirst.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Migrations\\20250521094507_dbfirst.cs",
+              "RelativeDocumentMoniker": "API_Practice\\Migrations\\20250521094507_dbfirst.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Migrations\\20250521094507_dbfirst.cs",
+              "RelativeToolTip": "API_Practice\\Migrations\\20250521094507_dbfirst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:45:08.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "API_Practice\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Models\\Student.cs",
+              "RelativeToolTip": "API_Practice\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:16:01.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "API_Practice\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Models\\Branch.cs",
+              "RelativeToolTip": "API_Practice\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:14:17.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Data\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "API_Practice\\Data\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Data\\EFCoreDbContext.cs",
+              "RelativeToolTip": "API_Practice\\Data\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:59:22.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "API_Practice\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Models\\Product.cs",
+              "RelativeToolTip": "API_Practice\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:08:07.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API_Practice\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API_Practice\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwFMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:04:17.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "API_Practice\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\API_Practice\\API_Practice\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "API_Practice\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:27:34.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

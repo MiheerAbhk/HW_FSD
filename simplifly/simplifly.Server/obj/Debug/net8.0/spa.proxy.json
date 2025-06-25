@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:65439",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\simplifly\\simplifly.Server\\..\\simplifly.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95E8B3DF-31F1-473A-B1C4-A2267BF0996C}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\taskmanagerapi\\taskmanagerapi\\taskmanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95E8B3DF-31F1-473A-B1C4-A2267BF0996C}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\taskmanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E8B3DF-31F1-473A-B1C4-A2267BF0996C}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\taskmanagerapi\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E8B3DF-31F1-473A-B1C4-A2267BF0996C}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E8B3DF-31F1-473A-B1C4-A2267BF0996C}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\taskmanagerapi\\taskmanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E8B3DF-31F1-473A-B1C4-A2267BF0996C}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E8B3DF-31F1-473A-B1C4-A2267BF0996C}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\taskmanagerapi\\taskmanagerapi\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E8B3DF-31F1-473A-B1C4-A2267BF0996C}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\controllers\\taskitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E8B3DF-31F1-473A-B1C4-A2267BF0996C}|TaskManagerAPI\\TaskManagerAPI.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\taskmanagerapi\\taskmanagerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E8B3DF-31F1-473A-B1C4-A2267BF0996C}|TaskManagerAPI\\TaskManagerAPI.csproj|solutionrelative:taskmanagerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85014CD-F1AE-4545-98D7-8534121EC9A0}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\taskmanagerapi\\taskmanager.tests\\taskitemscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85014CD-F1AE-4545-98D7-8534121EC9A0}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\taskitemscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85014CD-F1AE-4545-98D7-8534121EC9A0}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\taskmanagerapi\\taskmanager.tests\\tokenservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85014CD-F1AE-4545-98D7-8534121EC9A0}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\tokenservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManagerAPI",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManagerAPI\\TaskManagerAPI.csproj",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\TaskManagerAPI.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManagerAPI\\TaskManagerAPI.csproj",
+              "RelativeToolTip": "TaskManagerAPI\\TaskManagerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T09:26:19.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItemsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManager.Tests\\TaskItemsControllerTests.cs",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\TaskItemsControllerTests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManager.Tests\\TaskItemsControllerTests.cs",
+              "RelativeToolTip": "TaskManager.Tests\\TaskItemsControllerTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:39:52.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManager.Tests\\TokenServiceTest.cs",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\TokenServiceTest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManager.Tests\\TokenServiceTest.cs",
+              "RelativeToolTip": "TaskManager.Tests\\TokenServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:37:39.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManagerAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManagerAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:00:07.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManagerAPI\\Controllers\\TaskItemsController.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Controllers\\TaskItemsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManagerAPI\\Controllers\\TaskItemsController.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Controllers\\TaskItemsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:50:44.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManagerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManagerAPI\\Program.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:45:53.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManagerAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\TaskManagerAPI\\TaskManagerAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManagerAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:44:57.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

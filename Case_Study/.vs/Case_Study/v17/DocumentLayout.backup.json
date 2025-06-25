@@ -1,0 +1,658 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\controllers\\flightroutecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\controllers\\flightroutecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\controllers\\airlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\controllers\\airlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\models\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\models\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\implementations\\airlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\implementations\\airlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\iairlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\iairlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Migrations\\20250613112246_rbac_changes3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Case_Study\\Migrations\\20250613112246_rbac_changes3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Migrations\\20250613105440_rbac_changes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Case_Study\\Migrations\\20250613105440_rbac_changes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\implementations\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\implementations\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\implementations\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\implementations\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\migrations\\20250611132832_cancellation-fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\migrations\\20250611132832_cancellation-fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\dto\\bookingdto\\bookingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\dto\\bookingdto\\bookingcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\models\\tokenstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\models\\tokenstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\controllers\\cancellationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\controllers\\cancellationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\dto\\flightdto\\flightcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\dto\\flightdto\\flightcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\dto\\flightdto\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\dto\\flightdto\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\dto\\flightroutedto\\flightroutecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\dto\\flightroutedto\\flightroutecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\dto\\cancellationdto\\cancellationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\dto\\cancellationdto\\cancellationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\models\\cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\models\\cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\implementations\\cancellationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\implementations\\cancellationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\dto\\cancellationdto\\cancellationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\dto\\cancellationdto\\cancellationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\dto\\cancellationdto\\cancellationprocessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\dto\\cancellationdto\\cancellationprocessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\icancellationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\icancellationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\dto\\userdto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\dto\\userdto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\implementations\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\implementations\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\repository\\implementations\\flightrouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\repository\\implementations\\flightrouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|c:\\users\\asus\\desktop\\all coding\\hw .net fsd\\case_study\\case_study\\migrations\\20250612101314_test_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF9CE-418B-4AB1-8785-1B1F5F12B240}|Case_Study\\Case_Study.csproj|solutionrelative:case_study\\migrations\\20250612101314_test_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250613112246_rbac_changes3.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Migrations\\20250613112246_rbac_changes3.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Migrations\\20250613112246_rbac_changes3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Migrations\\20250613112246_rbac_changes3.cs",
+              "RelativeToolTip": "Case_Study\\Migrations\\20250613112246_rbac_changes3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:22:46.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250613105440_rbac_changes2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Migrations\\20250613105440_rbac_changes2.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Migrations\\20250613105440_rbac_changes2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Migrations\\20250613105440_rbac_changes2.cs",
+              "RelativeToolTip": "Case_Study\\Migrations\\20250613105440_rbac_changes2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:54:40.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAirlineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\IAirlineRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\IAirlineRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\IAirlineRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\IAirlineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:33:22.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFlightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\IFlightRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\IFlightRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\IFlightRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\IFlightRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:30:16.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Models\\User.cs",
+              "RelativeToolTip": "Case_Study\\Models\\User.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:14:56.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Airline.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Models\\Airline.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Models\\Airline.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Models\\Airline.cs",
+              "RelativeToolTip": "Case_Study\\Models\\Airline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:04:44.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenStore.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Models\\TokenStore.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Models\\TokenStore.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Models\\TokenStore.cs",
+              "RelativeToolTip": "Case_Study\\Models\\TokenStore.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:00:12.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\BookingDTO\\BookingCreateDto.cs",
+              "RelativeDocumentMoniker": "Case_Study\\DTO\\BookingDTO\\BookingCreateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\BookingDTO\\BookingCreateDto.cs",
+              "RelativeToolTip": "Case_Study\\DTO\\BookingDTO\\BookingCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:59:57.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Models\\Booking.cs",
+              "RelativeToolTip": "Case_Study\\Models\\Booking.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:59:53.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AirlineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\AirlineRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\Implementations\\AirlineRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\AirlineRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\Implementations\\AirlineRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:56:23.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FlightCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\FlightDTO\\FlightCreateDto.cs",
+              "RelativeDocumentMoniker": "Case_Study\\DTO\\FlightDTO\\FlightCreateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\FlightDTO\\FlightCreateDto.cs",
+              "RelativeToolTip": "Case_Study\\DTO\\FlightDTO\\FlightCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:07:26.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FlightRouteCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\FlightRouteDTO\\FlightRouteCreateDto.cs",
+              "RelativeDocumentMoniker": "Case_Study\\DTO\\FlightRouteDTO\\FlightRouteCreateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\FlightRouteDTO\\FlightRouteCreateDto.cs",
+              "RelativeToolTip": "Case_Study\\DTO\\FlightRouteDTO\\FlightRouteCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:07:04.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FlightDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\FlightDTO\\FlightDto.cs",
+              "RelativeDocumentMoniker": "Case_Study\\DTO\\FlightDTO\\FlightDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\FlightDTO\\FlightDto.cs",
+              "RelativeToolTip": "Case_Study\\DTO\\FlightDTO\\FlightDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:58:52.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250612101314_test_db.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Migrations\\20250612101314_test_db.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Migrations\\20250612101314_test_db.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Migrations\\20250612101314_test_db.cs",
+              "RelativeToolTip": "Case_Study\\Migrations\\20250612101314_test_db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:13:14.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Case_Study\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:11:44.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250611132832_cancellation-fix.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Migrations\\20250611132832_cancellation-fix.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Migrations\\20250611132832_cancellation-fix.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Migrations\\20250611132832_cancellation-fix.cs",
+              "RelativeToolTip": "Case_Study\\Migrations\\20250611132832_cancellation-fix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:28:32.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CancellationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\CancellationRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\Implementations\\CancellationRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\CancellationRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\Implementations\\CancellationRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:07:34.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICancellationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\ICancellationRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\ICancellationRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\ICancellationRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\ICancellationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:06:27.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CancellationProcessDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\CancellationDTO\\CancellationProcessDto.cs",
+              "RelativeDocumentMoniker": "Case_Study\\DTO\\CancellationDTO\\CancellationProcessDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\CancellationDTO\\CancellationProcessDto.cs",
+              "RelativeToolTip": "Case_Study\\DTO\\CancellationDTO\\CancellationProcessDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:05:48.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CancellationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\CancellationDTO\\CancellationRequestDto.cs",
+              "RelativeDocumentMoniker": "Case_Study\\DTO\\CancellationDTO\\CancellationRequestDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\CancellationDTO\\CancellationRequestDto.cs",
+              "RelativeToolTip": "Case_Study\\DTO\\CancellationDTO\\CancellationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:05:04.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CancellationDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\CancellationDTO\\CancellationDto.cs",
+              "RelativeDocumentMoniker": "Case_Study\\DTO\\CancellationDTO\\CancellationDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\CancellationDTO\\CancellationDto.cs",
+              "RelativeToolTip": "Case_Study\\DTO\\CancellationDTO\\CancellationDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:04:07.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Cancellation.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Models\\Cancellation.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Models\\Cancellation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Models\\Cancellation.cs",
+              "RelativeToolTip": "Case_Study\\Models\\Cancellation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:02:10.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CancellationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\CancellationController.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Controllers\\CancellationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\CancellationController.cs",
+              "RelativeToolTip": "Case_Study\\Controllers\\CancellationController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:56:44.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\IBookingRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:45:18.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\Implementations\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\BookingRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\Implementations\\BookingRepository.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowFgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:45:14.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\UserDTO\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "Case_Study\\DTO\\UserDTO\\UserUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\DTO\\UserDTO\\UserUpdateDto.cs",
+              "RelativeToolTip": "Case_Study\\DTO\\UserDTO\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:34:39.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\Implementations\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:34:03.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\Implementations\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\PaymentRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\Implementations\\PaymentRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:33:14.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Case_Study\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:37:32.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\appsettings.json",
+              "RelativeDocumentMoniker": "Case_Study\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\appsettings.json",
+              "RelativeToolTip": "Case_Study\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T08:09:29.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightRouteController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\FlightRouteController.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Controllers\\FlightRouteController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\FlightRouteController.cs",
+              "RelativeToolTip": "Case_Study\\Controllers\\FlightRouteController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:51:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "Case_Study\\Controllers\\FlightController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:51:05.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AirlineController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\AirlineController.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Controllers\\AirlineController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\AirlineController.cs",
+              "RelativeToolTip": "Case_Study\\Controllers\\AirlineController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:49:16.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Case_Study\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:47:21.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Services\\JwtService.cs",
+              "RelativeToolTip": "Case_Study\\Services\\JwtService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:45:15.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FlightRouteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\FlightRouteRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\Implementations\\FlightRouteRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\FlightRouteRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\Implementations\\FlightRouteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:19:29.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FlightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\FlightRepository.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Repository\\Implementations\\FlightRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Repository\\Implementations\\FlightRepository.cs",
+              "RelativeToolTip": "Case_Study\\Repository\\Implementations\\FlightRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:18:48.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Case_Study\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:18:38.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Program.cs",
+              "RelativeDocumentMoniker": "Case_Study\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\HW .NET FSD\\Case_Study\\Case_Study\\Program.cs",
+              "RelativeToolTip": "Case_Study\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:52:08.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
