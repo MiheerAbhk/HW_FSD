@@ -5,6 +5,83 @@
     "version": "v1"
   },
   "paths": {
+    "/api/Airlines/my-airline": {
+      "get": {
+        "tags": [
+          "Airlines"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/AirlinesDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AirlinesDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AirlinesDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Airlines": {
+      "post": {
+        "tags": [
+          "Airlines"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AirlinesCreateDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AirlinesCreateDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AirlinesCreateDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/AirlinesDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AirlinesDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AirlinesDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Auth/register": {
       "post": {
         "tags": [
@@ -440,16 +517,72 @@
   },
   "components": {
     "schemas": {
+      "AirlinesCreateDto": {
+        "type": "object",
+        "properties": {
+          "airlineName": {
+            "type": "string",
+            "nullable": true
+          },
+          "airlineCode": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "AirlinesDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "airlineName": {
+            "type": "string",
+            "nullable": true
+          },
+          "airlineCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "ownerId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "FlightRoutesCreateDto": {
         "type": "object",
         "properties": {
-          "source": {
+          "origin": {
             "type": "string",
             "nullable": true
           },
           "destination": {
             "type": "string",
             "nullable": true
+          },
+          "departureTime": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "arrivalTime": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "fare": {
+            "type": "number",
+            "format": "double"
+          },
+          "baggageCheckInKg": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cabinBagKg": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
@@ -461,13 +594,33 @@
             "type": "integer",
             "format": "int32"
           },
-          "source": {
+          "origin": {
             "type": "string",
             "nullable": true
           },
           "destination": {
             "type": "string",
             "nullable": true
+          },
+          "departureTime": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "arrivalTime": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "fare": {
+            "type": "number",
+            "format": "double"
+          },
+          "baggageCheckInKg": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cabinBagKg": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
@@ -500,14 +653,6 @@
           "flightRouteId": {
             "type": "integer",
             "format": "int32"
-          },
-          "departureTime": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "arrivalTime": {
-            "type": "string",
-            "format": "date-time"
           },
           "price": {
             "type": "number",
@@ -547,14 +692,6 @@
             "type": "string",
             "nullable": true
           },
-          "departureTime": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "arrivalTime": {
-            "type": "string",
-            "format": "date-time"
-          },
           "price": {
             "type": "number",
             "format": "double"
@@ -572,14 +709,6 @@
           "flightRouteId": {
             "type": "integer",
             "format": "int32"
-          },
-          "departureTime": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "arrivalTime": {
-            "type": "string",
-            "format": "date-time"
           },
           "price": {
             "type": "number",

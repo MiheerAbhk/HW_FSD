@@ -144,8 +144,8 @@ namespace SimplyFlyAPI.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<TimeSpan>("ArrivalTime")
-                        .HasColumnType("time");
+                    b.Property<DateTime>("ArrivalTime")
+                        .HasColumnType("datetime2");
 
                     b.Property<int>("BaggageCheckInKg")
                         .HasColumnType("int");
@@ -153,8 +153,8 @@ namespace SimplyFlyAPI.Migrations
                     b.Property<int>("CabinBagKg")
                         .HasColumnType("int");
 
-                    b.Property<TimeSpan>("DepartureTime")
-                        .HasColumnType("time");
+                    b.Property<DateTime>("DepartureTime")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("Destination")
                         .IsRequired()
@@ -319,7 +319,7 @@ namespace SimplyFlyAPI.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("SimplyFlyAPI.Models.FlightRoute", "Route")
+                    b.HasOne("SimplyFlyAPI.Models.FlightRoute", "FlightRoute")
                         .WithMany("Flights")
                         .HasForeignKey("FlightRouteId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -327,7 +327,7 @@ namespace SimplyFlyAPI.Migrations
 
                     b.Navigation("Airline");
 
-                    b.Navigation("Route");
+                    b.Navigation("FlightRoute");
                 });
 
             modelBuilder.Entity("SimplyFlyAPI.Models.Payment", b =>

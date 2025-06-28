@@ -1,5 +1,51 @@
 [
   {
+    "ContainingType": "SimplyFlyAPI.Controllers.AirlinesController",
+    "Method": "CreateAirline",
+    "RelativePath": "api/Airlines",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SimplyFlyAPI.DTOs.AirlineDTO.AirlinesCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SimplyFlyAPI.DTOs.AirlineDTO.AirlinesDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplyFlyAPI.Controllers.AirlinesController",
+    "Method": "GetMyAirline",
+    "RelativePath": "api/Airlines/my-airline",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SimplyFlyAPI.DTOs.AirlineDTO.AirlinesDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "SimplyFlyAPI.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",
