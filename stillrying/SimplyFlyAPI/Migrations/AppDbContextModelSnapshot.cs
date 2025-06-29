@@ -59,7 +59,18 @@ namespace SimplyFlyAPI.Migrations
                     b.Property<DateTime>("BookingDate")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("Destination")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("FlightId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Source")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Status")
                         .HasColumnType("int");
 
                     b.Property<int>("UserId")
@@ -88,12 +99,12 @@ namespace SimplyFlyAPI.Migrations
                     b.Property<DateTime>("CancelledAt")
                         .HasColumnType("datetime2");
 
-                    b.Property<bool>("IsRefunded")
-                        .HasColumnType("bit");
-
                     b.Property<string>("Reason")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("RefundAmount")
+                        .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
 
@@ -114,6 +125,16 @@ namespace SimplyFlyAPI.Migrations
                     b.Property<int>("AirlineId")
                         .HasColumnType("int");
 
+                    b.Property<DateTime>("ArrivalTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("DepartureTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Destination")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("FlightNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -121,8 +142,9 @@ namespace SimplyFlyAPI.Migrations
                     b.Property<int>("FlightRouteId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("JourneyDate")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("Source")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("TotalSeats")
                         .HasColumnType("int");
@@ -163,7 +185,7 @@ namespace SimplyFlyAPI.Migrations
                     b.Property<decimal>("Fare")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<string>("Origin")
+                    b.Property<string>("Source")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

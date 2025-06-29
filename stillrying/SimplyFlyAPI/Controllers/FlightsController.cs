@@ -65,11 +65,39 @@ namespace SimplyFlyAPI.Controllers
             if (airline == null)
                 return BadRequest("Airline not found for this flight owner.");
 
+            var route = await _context.FlightRoutes.FindAsync(dto.FlightRouteId);
+            if (route == null)
+                return BadRequest("Invalid FlightRouteId.");
+
             var flight = _mapper.Map<Flight>(dto);
             flight.AirlineId = airline.Id;
 
+            flight.Source = route.Source;
+            flight.Destination = route.Destination;
+
             _context.Flights.Add(flight);
             await _context.SaveChangesAsync();
+
+            //to add seats
+            var existingSeats = await _context.Seats.AnyAsync(s => s.FlightId == flight.Id);
+            if (!existingSeats)
+            {
+                for (int i = 1; i <= dto.TotalSeats; i++)
+                {
+                    var seat = new Seat
+                    {
+                        SeatNumber = $"S{i:D3}",
+                        IsBooked = false,
+                        FlightId = flight.Id
+                    };
+                    _context.Seats.Add(seat);
+                }
+                await _context.SaveChangesAsync();
+            }
+            
+
+            await _context.Entry(flight).Reference(f => f.Airline).LoadAsync();
+            await _context.Entry(flight).Reference(f => f.FlightRoute).LoadAsync();
 
             var resultDto = _mapper.Map<FlightsDto>(flight);
             return CreatedAtAction(nameof(GetFlight), new { id = flight.Id }, resultDto);

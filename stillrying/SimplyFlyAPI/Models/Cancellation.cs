@@ -8,7 +8,7 @@
 
         public DateTime CancelledAt { get; set; } = DateTime.UtcNow;
         public string Reason { get; set; } = string.Empty;
-        public bool IsRefunded { get; set; } = false;
+        public decimal RefundAmount { get; set; }
     }
 
 }

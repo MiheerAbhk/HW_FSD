@@ -82,7 +82,22 @@ builder.Services.AddSwaggerGen(opt =>
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowReactApp", policy =>
+    {
+        policy.WithOrigins("http://localhost:3000") // React app
+               .AllowAnyHeader()
+               .AllowAnyMethod();
+              // .AllowCredentials(); 
+    });
+});
+
 var app = builder.Build();
+
+
+app.UseCors("AllowReactApp");
+
 
 // --- MIDDLEWARE PIPELINE CONFIGURATION ---
 if (app.Environment.IsDevelopment())

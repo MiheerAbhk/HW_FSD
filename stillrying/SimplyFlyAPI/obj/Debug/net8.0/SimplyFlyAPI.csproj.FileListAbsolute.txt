@@ -286,3 +286,7 @@ C:\Users\Administrator\Desktop\HW_FSD\stillrying\SimplyFlyAPI\obj\Debug\net8.0\r
 C:\Users\Administrator\Desktop\HW_FSD\stillrying\SimplyFlyAPI\obj\Debug\net8.0\SimplyFlyAPI.pdb
 C:\Users\Administrator\Desktop\HW_FSD\stillrying\SimplyFlyAPI\obj\Debug\net8.0\SimplyFlyAPI.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\HW_FSD\stillrying\SimplyFlyAPI\obj\Debug\net8.0\ref\SimplyFlyAPI.dll
+C:\Users\ASUS\Desktop\All Coding\HW .NET FSD\stillrying\SimplyFlyAPI\obj\Debug\net8.0\SimplyFlyAPI.sourcelink.json
+C:\Users\ASUS\Desktop\All Coding\HW .NET FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly-client\package-lock.json
+C:\Users\ASUS\Desktop\All Coding\HW .NET FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly-client\package.json
+C:\Users\ASUS\Desktop\All Coding\HW .NET FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly-client\public\manifest.json
