@@ -7,6 +7,7 @@ using SimplyFlyAPI.Models;
 using AutoMapper;
 using System.Security.Claims;
 using SimplyFlyAPI.DTOs.FlightDTO;
+using SimplyFlyAPI.DTOs.BookingsDTO;
 
 namespace SimplyFlyAPI.Controllers
 {
@@ -130,5 +131,43 @@ namespace SimplyFlyAPI.Controllers
 
             return Ok(_mapper.Map<BookingsDto>(booking));
         }
+
+        [HttpGet("flight/{flightId}/bookings")]
+        [Authorize(Roles = "FlightOwner")]
+        public async Task<ActionResult<IEnumerable<FlightOwnerGetBookingsDto>>> GetBookingsByFlightId(int flightId)
+        {
+            var flight = await _context.Flights
+                .Include(f => f.Airline)
+                .FirstOrDefaultAsync(f => f.Id == flightId);
+
+            if (flight == null)
+                return NotFound("Flight not found");
+
+            var currentUserId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value ?? "0");
+
+            if (flight.Airline.OwnerId != currentUserId)
+                return Forbid("You are not authorized to view bookings for this flight");
+
+            var bookings = await _context.Bookings
+                .Where(b => b.FlightId == flightId)
+                .Include(b => b.User)
+                .Include(b => b.Seats)
+                .ToListAsync();
+
+            var bookingDtos = bookings.Select(b => new FlightOwnerGetBookingsDto
+            {
+                Id = b.Id,
+                UserId = b.UserId,
+                PassengerName = b.User.FullName,
+                Source = b.Source,
+                Destination = b.Destination,
+                BookingDate = b.BookingDate,
+                Status = b.Status.ToString(),
+                SeatNumbers = b.Seats.Select(s => s.SeatNumber).ToList()
+            }).ToList();
+
+            return Ok(bookingDtos);
+        }
+
     }
 }

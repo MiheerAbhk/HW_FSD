@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\simplyfly-client\\src\\pages\\viewbookings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:simplyfly-client\\src\\pages\\viewbookings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\simplyfly-client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:simplyfly-client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\dtos\\bookingdto\\flightownergetbookingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:dtos\\bookingdto\\flightownergetbookingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\dtos\\bookingdto\\bookingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:dtos\\bookingdto\\bookingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,18 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\simplyfly-client\\src\\pages\\flightsearch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:simplyfly-client\\src\\pages\\flightsearch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\simplyfly-client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:simplyfly-client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\controllers\\flightroutescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\simplyfly-client\\src\\pages\\manageroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:simplyfly-client\\src\\pages\\manageroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\simplyfly-client\\src\\pages\\viewbookings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:simplyfly-client\\src\\pages\\viewbookings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\simplyfly-client\\src\\pages\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -219,10 +227,6 @@
       "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|c:\\users\\administrator\\desktop\\hw_fsd\\stillrying\\simplyflyapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C77CDD31-D2C3-0103-5EFE-AE5B5C48BF52}|SimplyFlyAPI.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -274,7 +278,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -284,7 +288,7 @@
               "RelativeDocumentMoniker": "simplyfly-client\\src\\App.js",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\App.js",
               "RelativeToolTip": "simplyfly-client\\src\\App.js",
-              "ViewState": "AgIAACcAAAAAAAAAAAAqwC8AAAB9AAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwCsAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-06-30T06:33:31.11Z",
               "IsPinned": true,
@@ -292,59 +296,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FlightRoutesController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Controllers\\FlightRoutesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FlightRoutesController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Controllers\\FlightRoutesController.cs",
-              "RelativeToolTip": "Controllers\\FlightRoutesController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwFMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T13:49:46.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "BookingsController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Controllers\\BookingsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Controllers\\BookingsController.cs",
               "RelativeToolTip": "Controllers\\BookingsController.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAIwA4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAIwJYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T08:27:22.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookFlight.js",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\BookFlight.js",
-              "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\BookFlight.js",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\BookFlight.js",
-              "RelativeToolTip": "simplyfly-client\\src\\pages\\BookFlight.js",
-              "ViewState": "AgIAABIAAAAAAAAAAAAswCcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-30T05:13:21.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FlightSearch.js",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\FlightSearch.js",
-              "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\FlightSearch.js",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\FlightSearch.js",
-              "RelativeToolTip": "simplyfly-client\\src\\pages\\FlightSearch.js",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAUwGwAAAACAAAAAAAAAA==",
+              "Title": "ViewBookings.js",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\ViewBookings.js",
+              "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\ViewBookings.js",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\ViewBookings.js",
+              "RelativeToolTip": "simplyfly-client\\src\\pages\\ViewBookings.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-30T05:23:39.202Z",
+              "WhenOpened": "2025-06-30T05:27:47.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "FlightOwnerGetBookingsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\BookingDTO\\FlightOwnerGetBookingsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookingDTO\\FlightOwnerGetBookingsDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\BookingDTO\\FlightOwnerGetBookingsDto.cs",
+              "RelativeToolTip": "DTOs\\BookingDTO\\FlightOwnerGetBookingsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:07:17.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BookingsDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\BookingDTO\\BookingsDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BookingDTO\\BookingsDto.cs",
@@ -357,20 +348,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "FlightsController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Controllers\\FlightsController.cs",
               "RelativeDocumentMoniker": "Controllers\\FlightsController.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Controllers\\FlightsController.cs",
               "RelativeToolTip": "Controllers\\FlightsController.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAYwJoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAwHwAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T13:51:15.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightSearch.js",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\FlightSearch.js",
+              "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\FlightSearch.js",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\FlightSearch.js",
+              "RelativeToolTip": "simplyfly-client\\src\\pages\\FlightSearch.js",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwGwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-30T05:23:39.202Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "BookFlight.js",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\BookFlight.js",
+              "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\BookFlight.js",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\BookFlight.js",
+              "RelativeToolTip": "simplyfly-client\\src\\pages\\BookFlight.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-30T05:13:21.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA6wBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:49:27.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlightRoutesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Controllers\\FlightRoutesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightRoutesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Controllers\\FlightRoutesController.cs",
+              "RelativeToolTip": "Controllers\\FlightRoutesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwFMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:49:46.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FlightsDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightDTO\\FlightsDto.cs",
               "RelativeDocumentMoniker": "DTOs\\FlightDTO\\FlightsDto.cs",
@@ -378,12 +418,11 @@
               "RelativeToolTip": "DTOs\\FlightDTO\\FlightsDto.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAgwAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T14:24:20.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T14:24:20.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "FlightRoutesUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightRoutesDTO\\FlightRoutesUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\FlightRoutesDTO\\FlightRoutesUpdateDto.cs",
@@ -391,12 +430,11 @@
               "RelativeToolTip": "DTOs\\FlightRoutesDTO\\FlightRoutesUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T14:26:43.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T14:26:43.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "FlightRoutesDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightRoutesDTO\\FlightRoutesDto.cs",
               "RelativeDocumentMoniker": "DTOs\\FlightRoutesDTO\\FlightRoutesDto.cs",
@@ -404,12 +442,11 @@
               "RelativeToolTip": "DTOs\\FlightRoutesDTO\\FlightRoutesDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T14:26:24.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T14:26:24.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "FlightRoutesCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightRoutesDTO\\FlightRoutesCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\FlightRoutesDTO\\FlightRoutesCreateDto.cs",
@@ -417,12 +454,11 @@
               "RelativeToolTip": "DTOs\\FlightRoutesDTO\\FlightRoutesCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T14:25:45.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T14:25:45.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ManageRoutes.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\ManageRoutes.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\ManageRoutes.js",
@@ -430,12 +466,11 @@
               "RelativeToolTip": "simplyfly-client\\src\\pages\\ManageRoutes.js",
               "ViewState": "AgIAABABAAAAAAAAAAAAABkBAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-30T05:26:42.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T05:26:42.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Register.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\Register.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\Register.js",
@@ -443,12 +478,11 @@
               "RelativeToolTip": "simplyfly-client\\src\\pages\\Register.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-30T08:16:17.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T08:16:17.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ManageFlights.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\ManageFlights.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\ManageFlights.js",
@@ -456,25 +490,11 @@
               "RelativeToolTip": "simplyfly-client\\src\\pages\\ManageFlights.js",
               "ViewState": "AgIAAG8AAAAAAAAAAAAqwH0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-30T05:26:14.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T05:26:14.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ViewBookings.js",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\ViewBookings.js",
-              "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\ViewBookings.js",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\ViewBookings.js",
-              "RelativeToolTip": "simplyfly-client\\src\\pages\\ViewBookings.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-30T05:27:47.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Flight.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Models\\Flight.cs",
               "RelativeDocumentMoniker": "Models\\Flight.cs",
@@ -486,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ManageFlightOwners.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\ManageFlightOwners.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\ManageFlightOwners.js",
@@ -498,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "FlightSearch.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\passenger\\FlightSearch.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\passenger\\FlightSearch.js",
@@ -510,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "FlightsUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\FlightDTO\\FlightsUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\FlightDTO\\FlightsUpdateDto.cs",
@@ -522,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "PassengerDashboard.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\passenger\\PassengerDashboard.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\passenger\\PassengerDashboard.js",
@@ -534,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "FlightRoute.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Models\\FlightRoute.cs",
               "RelativeDocumentMoniker": "Models\\FlightRoute.cs",
@@ -546,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ManageAirline.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\ManageAirline.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\ManageAirline.js",
@@ -558,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\public\\index.html",
               "RelativeDocumentMoniker": "simplyfly-client\\public\\index.html",
@@ -570,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "ViewUsers.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\ViewUsers.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\ViewUsers.js",
@@ -582,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Payment.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\Payment.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\Payment.js",
@@ -594,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "MyBookings.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\MyBookings.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\MyBookings.js",
@@ -606,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "axios.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\api\\axios.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\api\\axios.js",
@@ -618,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "PassengerDashboard.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\PassengerDashboard.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\PassengerDashboard.js",
@@ -630,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "AdminDashboard.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\AdminDashboard.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\AdminDashboard.js",
@@ -642,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Navbar.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\components\\Navbar.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\components\\Navbar.js",
@@ -654,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Login.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly-client\\src\\pages\\Login.js",
               "RelativeDocumentMoniker": "simplyfly-client\\src\\pages\\Login.js",
@@ -666,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\index.html",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\index.html",
@@ -678,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\index.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\index.js",
@@ -690,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "PrivateRoute.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\routes\\PrivateRoute.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\routes\\PrivateRoute.js",
@@ -702,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Login.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\Login.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\Login.js",
@@ -714,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Payment.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\passenger\\Payment.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\passenger\\Payment.js",
@@ -726,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "App.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\App.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\App.js",
@@ -738,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "index.css",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\index.css",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\index.css",
@@ -750,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "MyBookings.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\passenger\\MyBookings.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\passenger\\MyBookings.js",
@@ -762,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "AuthContext.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\context\\AuthContext.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\context\\AuthContext.js",
@@ -774,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "BookFlight.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\passenger\\BookFlight.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\passenger\\BookFlight.js",
@@ -786,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "OwnerBookings.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\flight-owner\\OwnerBookings.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\flight-owner\\OwnerBookings.js",
@@ -798,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "ManageFlights.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\flight-owner\\ManageFlights.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\flight-owner\\ManageFlights.js",
@@ -810,7 +830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "ManageAirline.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\flight-owner\\ManageAirline.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\flight-owner\\ManageAirline.js",
@@ -822,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "FlightOwnerDashboard.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\flight-owner\\FlightOwnerDashboard.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\flight-owner\\FlightOwnerDashboard.js",
@@ -834,7 +854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "ViewBookings.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\admin\\ViewBookings.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\admin\\ViewBookings.js",
@@ -846,7 +866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "ManageUsers.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\admin\\ManageUsers.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\admin\\ManageUsers.js",
@@ -858,7 +878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "ManageRoutes.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\admin\\ManageRoutes.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\admin\\ManageRoutes.js",
@@ -870,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "AdminDashboard.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\pages\\admin\\AdminDashboard.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\pages\\admin\\AdminDashboard.js",
@@ -882,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "Navbar.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\components\\Navbar.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\components\\Navbar.js",
@@ -894,7 +914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "config.js",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\simplyfly_new\\src\\api\\config.js",
               "RelativeDocumentMoniker": "simplyfly_new\\src\\api\\config.js",
@@ -906,7 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "BookingsCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\BookingDTO\\BookingsCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BookingDTO\\BookingsCreateDto.cs",
@@ -918,7 +938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Models\\Payment.cs",
@@ -930,7 +950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "AirlineController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Controllers\\AirlineController.cs",
               "RelativeDocumentMoniker": "Controllers\\AirlineController.cs",
@@ -942,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "Seat.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Models\\Seat.cs",
               "RelativeDocumentMoniker": "Models\\Seat.cs",
@@ -954,7 +974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "Airline.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Models\\Airline.cs",
               "RelativeDocumentMoniker": "Models\\Airline.cs",
@@ -966,7 +986,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Helper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Helper\\MappingProfile.cs",
@@ -978,7 +998,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "AirlinesCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\AirlineDTO\\AirlinesCreateDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\AirlineDTO\\AirlinesCreateDTO.cs",
@@ -990,7 +1010,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "AirlinesDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\AirlineDTO\\AirlinesDto.cs",
               "RelativeDocumentMoniker": "DTOs\\AirlineDTO\\AirlinesDto.cs",
@@ -1002,7 +1022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -1014,7 +1034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\LoginDTO\\RegisterDto.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginDTO\\RegisterDto.cs",
@@ -1026,7 +1046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "SimplyFlyAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\SimplyFlyAPI.csproj",
               "RelativeDocumentMoniker": "SimplyFlyAPI.csproj",
@@ -1038,7 +1058,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\DTOs\\LoginDTO\\LoginDto.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginDTO\\LoginDto.cs",
@@ -1050,7 +1070,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "Cancellation.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Models\\Cancellation.cs",
               "RelativeDocumentMoniker": "Models\\Cancellation.cs",
@@ -1062,19 +1082,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Models\\Booking.cs",
-              "RelativeToolTip": "Models\\Booking.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBcAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T13:49:27.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HW_FSD\\stillrying\\SimplyFlyAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
