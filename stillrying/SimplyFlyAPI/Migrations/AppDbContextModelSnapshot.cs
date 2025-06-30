@@ -166,17 +166,11 @@ namespace SimplyFlyAPI.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("ArrivalTime")
-                        .HasColumnType("datetime2");
-
                     b.Property<int>("BaggageCheckInKg")
                         .HasColumnType("int");
 
                     b.Property<int>("CabinBagKg")
                         .HasColumnType("int");
-
-                    b.Property<DateTime>("DepartureTime")
-                        .HasColumnType("datetime2");
 
                     b.Property<string>("Destination")
                         .IsRequired()

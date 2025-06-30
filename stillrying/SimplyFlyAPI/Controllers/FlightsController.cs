@@ -11,7 +11,6 @@ namespace SimplyFlyAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "FlightOwner")]
     public class FlightsController : ControllerBase
     {
         private readonly AppDbContext _context;
@@ -137,5 +136,22 @@ namespace SimplyFlyAPI.Controllers
 
             return NoContent();
         }
+
+        [HttpGet("route/{routeId}")]
+        [Authorize(Roles = "Passenger,FlightOwner,Admin")]
+        public async Task<ActionResult<IEnumerable<FlightsDto>>> GetFlightsByRouteId(int routeId)
+        {
+            var flights = await _context.Flights
+                .Where(f => f.FlightRouteId == routeId)
+                .Include(f => f.Airline)
+                .Include(f => f.FlightRoute)
+                .ToListAsync();
+
+            if (!flights.Any())
+                return NotFound($"No flights found for Route ID {routeId}");
+
+            return Ok(_mapper.Map<IEnumerable<FlightsDto>>(flights));
+        }
+
     }
 }

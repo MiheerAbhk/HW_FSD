@@ -12,7 +12,7 @@ namespace SimplyFlyAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "Passenger,Admin")]
+    [Authorize(Roles = "Passenger,Admin,FlightOwner")]
     public class BookingsController : ControllerBase
     {
         private readonly AppDbContext _context;

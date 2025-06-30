@@ -10,7 +10,7 @@ namespace SimplyFlyAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "Admin")]
+    //[Authorize(Roles = "Admin")]
     public class FlightRoutesController : ControllerBase
     {
         private readonly AppDbContext _context;
@@ -23,6 +23,7 @@ namespace SimplyFlyAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "FlightOwner,Admin,Passenger")]
         public async Task<ActionResult<IEnumerable<FlightRoutesDto>>> GetFlightRoutes()
         {
             var routes = await _context.FlightRoutes.ToListAsync();
@@ -31,6 +32,7 @@ namespace SimplyFlyAPI.Controllers
 
 
         [HttpGet("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<FlightRoutesDto>> GetFlightRoute(int id)
         {
             var route = await _context.FlightRoutes.FindAsync(id);
@@ -43,6 +45,7 @@ namespace SimplyFlyAPI.Controllers
 
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<FlightRoutesDto>> CreateFlightRoute(FlightRoutesCreateDto dto)
         {
             var route = _mapper.Map<FlightRoute>(dto);
@@ -55,6 +58,7 @@ namespace SimplyFlyAPI.Controllers
 
 
         [HttpPut("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> UpdateFlightRoute(int id, FlightRoutesUpdateDto dto)
         {
             var route = await _context.FlightRoutes.FindAsync(id);
@@ -69,6 +73,7 @@ namespace SimplyFlyAPI.Controllers
 
 
         [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             var route = await _context.FlightRoutes.FindAsync(id);

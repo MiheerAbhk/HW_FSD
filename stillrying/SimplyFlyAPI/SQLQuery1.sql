@@ -11,3 +11,6 @@ select * from Payments
 select * from Seats
 
 delete from Users where Id=4
+
+use master
+drop database SimplyFlyDB

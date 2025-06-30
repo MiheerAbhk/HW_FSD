@@ -290,3 +290,9 @@ C:\Users\ASUS\Desktop\All Coding\HW .NET FSD\stillrying\SimplyFlyAPI\obj\Debug\n
 C:\Users\ASUS\Desktop\All Coding\HW .NET FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly-client\package-lock.json
 C:\Users\ASUS\Desktop\All Coding\HW .NET FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly-client\package.json
 C:\Users\ASUS\Desktop\All Coding\HW .NET FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly-client\public\manifest.json
+C:\Users\Administrator\Desktop\HW_FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly-client\package-lock.json
+C:\Users\Administrator\Desktop\HW_FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly-client\package.json
+C:\Users\Administrator\Desktop\HW_FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly-client\public\manifest.json
+C:\Users\Administrator\Desktop\HW_FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly_new\public\manifest.json
+C:\Users\Administrator\Desktop\HW_FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly_new\package-lock.json
+C:\Users\Administrator\Desktop\HW_FSD\stillrying\SimplyFlyAPI\bin\Debug\net8.0\simplyfly_new\package.json

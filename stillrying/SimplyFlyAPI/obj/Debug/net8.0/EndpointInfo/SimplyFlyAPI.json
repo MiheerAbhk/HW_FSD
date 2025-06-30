@@ -726,6 +726,55 @@
         }
       }
     },
+    "/api/Flights/route/{routeId}": {
+      "get": {
+        "tags": [
+          "Flights"
+        ],
+        "parameters": [
+          {
+            "name": "routeId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/FlightsDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/FlightsDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/FlightsDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Payments": {
       "post": {
         "tags": [
@@ -931,14 +980,6 @@
             "type": "string",
             "nullable": true
           },
-          "departureTime": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "arrivalTime": {
-            "type": "string",
-            "format": "date-time"
-          },
           "fare": {
             "type": "number",
             "format": "double"
@@ -968,14 +1009,6 @@
           "destination": {
             "type": "string",
             "nullable": true
-          },
-          "departureTime": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "arrivalTime": {
-            "type": "string",
-            "format": "date-time"
           },
           "fare": {
             "type": "number",
